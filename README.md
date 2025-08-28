@@ -25,5 +25,8 @@ This project allows users to generate, edit, and download professional resumes.
 
 ---
 
-## 📂 Project Structure  
+## 📸 Screenshots
+
+<img width="947" height="431" alt="Screenshot 2025-08-27 010225" src="https://github.com/user-attachments/assets/186b3421-709b-48fe-a4a8-cc9f01f5a6e1" />
+
 
